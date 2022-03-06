@@ -1,4 +1,6 @@
-# oyster-challenge
+# Oyster Tax Calculator
+A code challenge for Oyster HR. Build a tax calculator that evaluates gross income and target country, then outputs tax obligations for both employer and employee.
+![Alt text](src/assets/screenshot.png?raw=true "Title")
 
 ## Project setup
 ```
